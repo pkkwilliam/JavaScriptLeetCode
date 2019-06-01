@@ -1,0 +1,19 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkkwilliam/JavaScriptLeetCode.git"
+  },
+  "author": "Ka Kei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkkwilliam/JavaScriptLeetCode/issues"
+  },
+  "homepage": "https://github.com/pkkwilliam/JavaScriptLeetCode#readme"
+}
